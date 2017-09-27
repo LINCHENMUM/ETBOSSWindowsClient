@@ -1,0 +1,9 @@
+E:\C sharp\ETBOSSWindowsClient\ETBOSSWindowsClient\bin\Debug\ETBOSSWindowsClient.exe.config
+E:\C sharp\ETBOSSWindowsClient\ETBOSSWindowsClient\bin\Debug\ETBOSSWindowsClient.exe
+E:\C sharp\ETBOSSWindowsClient\ETBOSSWindowsClient\bin\Debug\ETBOSSWindowsClient.pdb
+E:\C sharp\ETBOSSWindowsClient\ETBOSSWindowsClient\obj\Debug\ETBOSSWindowsClient.csprojResolveAssemblyReference.cache
+E:\C sharp\ETBOSSWindowsClient\ETBOSSWindowsClient\obj\Debug\ETBOSSWindowsClient.Form1.resources
+E:\C sharp\ETBOSSWindowsClient\ETBOSSWindowsClient\obj\Debug\ETBOSSWindowsClient.Properties.Resources.resources
+E:\C sharp\ETBOSSWindowsClient\ETBOSSWindowsClient\obj\Debug\ETBOSSWindowsClient.csproj.GenerateResource.Cache
+E:\C sharp\ETBOSSWindowsClient\ETBOSSWindowsClient\obj\Debug\ETBOSSWindowsClient.exe
+E:\C sharp\ETBOSSWindowsClient\ETBOSSWindowsClient\obj\Debug\ETBOSSWindowsClient.pdb

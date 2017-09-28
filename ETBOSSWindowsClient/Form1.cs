@@ -22,5 +22,6 @@ namespace ETBOSSWindowsClient
             ETBOSSService.ETBOSSServiceClient client = new ETBOSSService.ETBOSSServiceClient("NetTcpBinding_IETBOSSService");
             label1.Text = client.GetCustomerName(textBox1.Text);
         }
+
     }
 }
